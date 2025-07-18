@@ -370,8 +370,8 @@
           "@media only screen and (max-width: 749px) {.grid-product__content {width: 320px; } .grid__item {margin-right: 170px; }}"
         ],
         "settings": {
-          "title": "Best Selling",
-          "home_featured_products": "best-selling-1",
+          "title": "Luxury Items",
+          "home_featured_products": "luxurious-vintage-sustainable",
           "per_row": 5,
           "rows": 5,
           "mobile_scrollable": true,
