@@ -628,7 +628,7 @@
             "settings": {
               "top_subheading": "",
               "title": "Want to steal the spotlight? \n\nDive In Below!",
-              "title_size": 55,
+              "title_size": 49,
               "subheading": "",
               "link": "shopify://collections",
               "link_text": "Shop now",
@@ -636,12 +636,31 @@
               "link_text_2": "",
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
-              "focal_point": "80% 0"
+              "image": "shopify://shop_images/WhatsApp_Image_2024-12-20_at_15.06.42_50582cde.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "image_hCLDLQ": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "Fashion, Like never before",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/20220420_182937.jpg",
+              "focal_point": "center center"
             }
           }
         },
         "block_order": [
-          "image_xWg3Eb"
+          "image_xWg3Eb",
+          "image_hCLDLQ"
         ],
         "settings": {
           "section_height": "650px",
