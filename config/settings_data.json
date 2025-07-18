@@ -682,77 +682,32 @@
           "image_H7PYYb": {
             "type": "Image",
             "settings": {
-              "review_text": "Add awesome customer testimonial right here",
+              "review_icon": "shopify://shop_images/BA3_0440_a6807147-a6ab-494b-9087-b6e162ab0929.jpg",
+              "review_text": "I love the quality and even feel comfortable using these shirts on a daily",
               "review_rating": 5
             }
           },
           "image_9MnFe4": {
             "type": "Image",
             "settings": {
-              "review_text": "Add awesome customer testimonial right here",
+              "review_icon": "shopify://shop_images/WhatsAppImage2025-06-24at13.56.30_1.jpg",
+              "review_text": "Got my ordeer and it's better than i ever expected",
               "review_rating": 5
             }
           },
           "image_TkGnbx": {
             "type": "Image",
             "settings": {
-              "review_text": "Add awesome customer testimonial right here",
+              "review_icon": "shopify://shop_images/Screenshot2024-10-05171258.png",
+              "review_text": "Sleek and super elegant",
               "review_rating": 5
             }
           },
           "image_gxwcje": {
             "type": "Image",
             "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_pH8dbt": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_TjtQrp": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_E3tjeY": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_XjgGny": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_nDydFK": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_QP6ipY": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
-              "review_rating": 5
-            }
-          },
-          "image_z6Tw8i": {
-            "type": "Image",
-            "settings": {
-              "review_text": "Add awesome customer testimonial right here",
+              "review_icon": "shopify://shop_images/Screenshot2024-10-05171114.png",
+              "review_text": "Wow, i super love the quality",
               "review_rating": 5
             }
           }
@@ -762,14 +717,7 @@
           "image_H7PYYb",
           "image_9MnFe4",
           "image_TkGnbx",
-          "image_gxwcje",
-          "image_pH8dbt",
-          "image_TjtQrp",
-          "image_E3tjeY",
-          "image_XjgGny",
-          "image_nDydFK",
-          "image_QP6ipY",
-          "image_z6Tw8i"
+          "image_gxwcje"
         ],
         "name": "Dex - scrolling testimonials",
         "settings": {
@@ -931,8 +879,8 @@
       "featured_collections_XUFMLx",
       "text_and_image_VwHQgd",
       "16111386568c2d3def",
-      "scrolling_testemonials_7XMpFp",
-      "featured_collections_t9EAUm"
+      "featured_collections_t9EAUm",
+      "scrolling_testemonials_7XMpFp"
     ]
   },
   "presets": {
