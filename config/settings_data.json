@@ -541,7 +541,7 @@
           "collection_rVbWPH": {
             "type": "collection",
             "settings": {
-              "collection": "bracelets",
+              "collection": "tote-bags-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
@@ -549,7 +549,7 @@
           "collection_BdUtrU": {
             "type": "collection",
             "settings": {
-              "collection": "earrings",
+              "collection": "pouche-thrift-secondhand-upcycle-upcycled-vintage-fabric-purse-tobacco-multipurpose",
               "title": "",
               "focal_point": "center center"
             }
@@ -557,7 +557,7 @@
           "collection_GfdznB": {
             "type": "collection",
             "settings": {
-              "collection": "necklace",
+              "collection": "banana-bags-thrift-secondhand-upcycle-upcycled-vintage-fabric-sustainable",
               "title": "",
               "focal_point": "center center"
             }
@@ -565,7 +565,7 @@
           "collection_NHYYrw": {
             "type": "collection",
             "settings": {
-              "collection": "pearls",
+              "collection": "upcycled-purses-upcycled-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
@@ -573,7 +573,7 @@
           "collection_iwgmmX": {
             "type": "collection",
             "settings": {
-              "collection": "initials",
+              "collection": "upcycled-bags-tote-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
@@ -581,24 +581,8 @@
           "collection_Fi8jqa": {
             "type": "collection",
             "settings": {
-              "collection": "rings",
+              "collection": "upcycled-small-purse-sustainable-vintage-thrift",
               "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "collection_icWxmh": {
-            "type": "collection",
-            "settings": {
-              "collection": "summer-essentials",
-              "title": "Summer essentials",
-              "focal_point": "center center"
-            }
-          },
-          "collection_Bdm443": {
-            "type": "collection",
-            "settings": {
-              "collection": "trend-in-jewelry",
-              "title": "Trend in jewelry",
               "focal_point": "center center"
             }
           }
@@ -609,9 +593,7 @@
           "collection_GfdznB",
           "collection_NHYYrw",
           "collection_iwgmmX",
-          "collection_Fi8jqa",
-          "collection_icWxmh",
-          "collection_Bdm443"
+          "collection_Fi8jqa"
         ],
         "settings": {
           "title": "Shop By Category",
@@ -673,6 +655,7 @@
       },
       "featured_collection_qNgFDc": {
         "type": "featured-collection",
+        "disabled": true,
         "settings": {
           "title": "Bags",
           "home_featured_products": "upcycled-bags-tote-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
