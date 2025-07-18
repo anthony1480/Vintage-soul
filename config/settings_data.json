@@ -531,8 +531,8 @@
           "subtitle": "Vintage",
           "title": "Accessories that last a Lifetime",
           "text": "<p>At Vintage, our accessories are not just ordinairy ones. These accessories are years of antique legacy that increase in value over the years.</p>",
-          "button_label": "The Vintage Accessories",
-          "button_link": "shopify://collections/upcycled-accessories-banana-bags-thrift-secondhand-upcycle-upcycled-vintage-fabric-sustainable",
+          "button_label": "About Us",
+          "button_link": "shopify://pages/about-us",
           "layout": "left",
           "divider": false
         }
