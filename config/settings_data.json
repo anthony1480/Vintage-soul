@@ -792,83 +792,128 @@
           "padding_bottom": 36
         }
       },
-      "featured_collections_MF8hYD": {
+      "featured_collections_t9EAUm": {
         "type": "featured-collections",
         "blocks": {
-          "collection_dUz96c": {
+          "collection_GFrU33": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "upcycled-clothes-vintage-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_qTiLch": {
+          "collection_PpkP4x": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "upcycled-shirts-thrift-secondhand-vintage-sustainable",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_iB63Xc": {
+          "collection_T3jtYy": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "upcycled-pantstote-bags-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_R3E38Q": {
+          "collection_77m79B": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "sets-thrift-secondhand-upcycle-upcycled-vintage-sustainable-clothes",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_fiwcKP": {
+          "collection_e8VmVk": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "ponchos-upcycle-vintage-thrift-upcycled-secondhand",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_mPYN8H": {
+          "collection_HL4VM9": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "coats-upcycled-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_FW7RCc": {
+          "collection_GJCJFM": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "skirts-upcycled-thrift-secondhand-vintage",
               "title": "",
               "focal_point": "center center"
             }
           },
-          "collection_khjiMF": {
+          "collection_KghQe8": {
             "type": "collection",
             "settings": {
-              "collection": "",
+              "collection": "upcycled-dress-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_WVxcmg": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycle-sweatshirts-thrift-secondhand-vintage",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_3LEn39": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-pullovers-thrift-secondhand-upcycle-vintage-fabric-pullover-multipurpose-sustainable",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_YJ48Dn": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-cropped-top-vintage-upcycle-vintage-thrift-secondhand-thrift",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_dCU7r4": {
+            "type": "collection",
+            "settings": {
+              "collection": "luxury-blazers-upcycled-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_qbYraw": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-abaya-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
               "title": "",
               "focal_point": "center center"
             }
           }
         },
         "block_order": [
-          "collection_dUz96c",
-          "collection_qTiLch",
-          "collection_iB63Xc",
-          "collection_R3E38Q",
-          "collection_fiwcKP",
-          "collection_mPYN8H",
-          "collection_FW7RCc",
-          "collection_khjiMF"
+          "collection_GFrU33",
+          "collection_PpkP4x",
+          "collection_T3jtYy",
+          "collection_77m79B",
+          "collection_e8VmVk",
+          "collection_HL4VM9",
+          "collection_GJCJFM",
+          "collection_KghQe8",
+          "collection_WVxcmg",
+          "collection_3LEn39",
+          "collection_YJ48Dn",
+          "collection_dCU7r4",
+          "collection_qbYraw"
         ],
         "name": "Collection list",
         "settings": {
@@ -886,8 +931,8 @@
       "featured_collections_XUFMLx",
       "text_and_image_VwHQgd",
       "16111386568c2d3def",
-      "featured_collections_MF8hYD",
-      "scrolling_testemonials_7XMpFp"
+      "scrolling_testemonials_7XMpFp",
+      "featured_collections_t9EAUm"
     ]
   },
   "presets": {
