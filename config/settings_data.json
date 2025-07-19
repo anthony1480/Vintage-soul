@@ -14,7 +14,7 @@
     "color_price": "#1c1d1d",
     "color_savings_text": "#ff4e4e",
     "color_borders": "#e8e8e1",
-    "color_button": "#111111",
+    "color_button": "#7d2c36",
     "color_button_text": "#ffffff",
     "color_sale_tag": "#1c1d1d",
     "color_cart_dot": "#ff4f33",
@@ -955,6 +955,28 @@
           "border_thickness": 0,
           "lazy": true
         }
+      },
+      "scrolling_text_fb338C": {
+        "type": "Scrolling-Text",
+        "name": "SS - Scrolling text",
+        "settings": {
+          "text": "Free Delivery on Orders above 100$",
+          "icon_width": 0,
+          "link": "",
+          "direction": "left",
+          "inside_padding": 0,
+          "text_font": "open_sans_n4",
+          "text_size": 24,
+          "text_size_mobile": 40,
+          "scrolling_speed": 25,
+          "scrolling_speed_mobile": 30,
+          "text_spacing": true,
+          "pause_hover": false,
+          "text_color": "#ffffff",
+          "text_gradient": "",
+          "background_color": "#76875b",
+          "background_gradient": ""
+        }
       }
     },
     "content_for_index": [
@@ -963,6 +985,7 @@
       "1525295772132",
       "featured_collection_qNgFDc",
       "featured_collections_XUFMLx",
+      "scrolling_text_fb338C",
       "text_and_image_VwHQgd",
       "16111386568c2d3def",
       "featured_collections_t9EAUm",
