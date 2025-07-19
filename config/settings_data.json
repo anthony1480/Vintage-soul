@@ -870,10 +870,96 @@
           "per_row": 4,
           "enable_gutter": true
         }
+      },
+      "logo_scrolling_MkLUmP": {
+        "type": "Logo-Scrolling",
+        "blocks": {
+          "slide_BPEbPJ": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/CNN-logo.png",
+              "link": ""
+            }
+          },
+          "slide_VFHhck": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/Forbes_logoo.png",
+              "link": ""
+            }
+          },
+          "slide_VCtQb7": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/Le_Journal_Des_Femmes.png",
+              "link": ""
+            }
+          },
+          "slide_MeNYm4": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/new_york_times_logo.jpg",
+              "link": ""
+            }
+          },
+          "slide_tdT6m4": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/wall_street_journal.jpg",
+              "link": ""
+            }
+          },
+          "slide_gcTKPW": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify://shop_images/Sephora_Logo.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "slide_BPEbPJ",
+          "slide_VFHhck",
+          "slide_VCtQb7",
+          "slide_MeNYm4",
+          "slide_tdT6m4",
+          "slide_gcTKPW"
+        ],
+        "name": "SS - Scrolling Logo Cloud",
+        "settings": {
+          "ss-title": "As seen On",
+          "heading_custom": false,
+          "heading_font": "assistant_n4",
+          "header_size": 30,
+          "header_align": "center",
+          "scrolling_velocity": 10,
+          "pause_hover": false,
+          "shadow": false,
+          "sliders_mt": 16,
+          "logo_padding_top": 0,
+          "logo_padding_bottom": 0,
+          "slider_gap": 30,
+          "slider_gap_mobile": 30,
+          "slider_direction": "left",
+          "icon_width": 200,
+          "header_color": "#121212",
+          "border_color": "#ffffff",
+          "background-color": "#ffffff",
+          "slider-background-color": "#ffffff",
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "padding_top": 36,
+          "padding_bottom": 36,
+          "full_width": true,
+          "content_width": 120,
+          "border_thickness": 0,
+          "lazy": true
+        }
       }
     },
     "content_for_index": [
       "slideshow_xjDcWn",
+      "logo_scrolling_MkLUmP",
       "1525295772132",
       "featured_collection_qNgFDc",
       "featured_collections_XUFMLx",
