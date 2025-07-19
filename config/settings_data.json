@@ -10,7 +10,7 @@
 {
   "current": {
     "color_body_bg": "#ffffff",
-    "color_body_text": "#2c1e1e",
+    "color_body_text": "#7d2c36",
     "color_price": "#1c1d1d",
     "color_savings_text": "#ff4e4e",
     "color_borders": "#e8e8e1",
@@ -77,7 +77,7 @@
     "enable_product_reviews": false,
     "reviews_layout": "expandable",
     "collection_grid_style": "below",
-    "collection_grid_shape": "square",
+    "collection_grid_shape": "landscape",
     "collection_grid_image": "collection",
     "collection_grid_text_align": "center",
     "collection_grid_tint": "#000000",
@@ -362,21 +362,6 @@
           "filter_style": "drawer",
           "tags_combine": false,
           "enable_sort": true
-        }
-      },
-      "1525295772132": {
-        "type": "featured-collection",
-        "custom_css": [
-          "@media only screen and (max-width: 749px) {.grid-product__content {width: 320px; } .grid__item {margin-right: 170px; }}"
-        ],
-        "settings": {
-          "title": "Luxury Items",
-          "home_featured_products": "luxurious-vintage-sustainable",
-          "per_row": 5,
-          "rows": 5,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
         }
       },
       "collection-promotions": {
@@ -673,19 +658,6 @@
           "autoplay_speed": 5
         }
       },
-      "featured_collection_qNgFDc": {
-        "type": "featured-collection",
-        "disabled": true,
-        "settings": {
-          "title": "Bags",
-          "home_featured_products": "upcycled-bags-tote-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
-          "per_row": 5,
-          "rows": 5,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": false
-        }
-      },
       "scrolling_testemonials_7XMpFp": {
         "type": "Scrolling-Testemonials",
         "blocks": {
@@ -910,12 +882,79 @@
           "background_color": "#76875b",
           "background_gradient": ""
         }
+      },
+      "featured_collections_prVBPd": {
+        "type": "featured-collections",
+        "blocks": {
+          "collection_GfTtmm": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-accessories-banana-bags-thrift-secondhand-upcycle-upcycled-vintage-fabric-sustainable",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_eBHtpN": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-shirts-thrift-secondhand-vintage-sustainable",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_RbyLNz": {
+            "type": "collection",
+            "settings": {
+              "collection": "luxurious-vintage-sustainable",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_TEy3bq": {
+            "type": "collection",
+            "settings": {
+              "collection": "banana-bags-thrift-secondhand-upcycle-upcycled-vintage-fabric-sustainable",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_AP9CRQ": {
+            "type": "collection",
+            "settings": {
+              "collection": "upcycled-bags-tote-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
+              "title": "",
+              "focal_point": "center center"
+            }
+          },
+          "collection_jGQpep": {
+            "type": "collection",
+            "settings": {
+              "collection": "tote-bags-sustainable-vintage-secondhand-upcycle-upcycling-upcycled",
+              "title": "",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "collection_GfTtmm",
+          "collection_eBHtpN",
+          "collection_RbyLNz",
+          "collection_TEy3bq",
+          "collection_AP9CRQ",
+          "collection_jGQpep"
+        ],
+        "name": "Collection list",
+        "settings": {
+          "title": "ENLIVEN OLD SOULS",
+          "divider": false,
+          "per_row": 3,
+          "enable_gutter": true
+        }
       }
     },
     "content_for_index": [
       "slideshow_xjDcWn",
-      "1525295772132",
-      "featured_collection_qNgFDc",
+      "featured_collections_prVBPd",
       "featured_collections_XUFMLx",
       "scrolling_text_fb338C",
       "text_and_image_VwHQgd",
