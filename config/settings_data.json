@@ -628,7 +628,24 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "Fashion, Like never before",
+              "title": "For Him & Her",
+              "title_size": 80,
+              "subheading": "Upcycle with love",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/18-e3.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "image_VPWVjY": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "",
               "title_size": 80,
               "subheading": "",
               "link": "",
@@ -637,14 +654,15 @@
               "link_text_2": "",
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/20220420_182937.jpg",
-              "focal_point": "center center"
+              "image": "shopify://shop_images/WhatsApp_Image_2024-12-20_at_15.06.42_50582cde.jpg",
+              "focal_point": "top center"
             }
           }
         },
         "block_order": [
           "image_xWg3Eb",
-          "image_hCLDLQ"
+          "image_hCLDLQ",
+          "image_VPWVjY"
         ],
         "settings": {
           "section_height": "650px",
