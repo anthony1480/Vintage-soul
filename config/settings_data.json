@@ -529,8 +529,8 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "Reviving nostalgia through unique \n\nhandmade pieces",
-              "title_size": 49,
+              "title": "Reviving nostalgia through unique \nhandmade pieces",
+              "title_size": 40,
               "subheading": "Upcycle with love",
               "link": "shopify://collections",
               "link_text": "Shop now",
@@ -547,7 +547,7 @@
             "settings": {
               "top_subheading": "",
               "title": "For Him & Her",
-              "title_size": 80,
+              "title_size": 40,
               "subheading": "Upcycle with love",
               "link": "",
               "link_text": "",
@@ -585,7 +585,7 @@
         "settings": {
           "section_height": "650px",
           "mobile_height": "auto",
-          "parallax": true,
+          "parallax": false,
           "style": "minimal",
           "autoplay": true,
           "autoplay_speed": 5
@@ -888,7 +888,7 @@
         "type": "featured-collection",
         "name": "Featured collection",
         "settings": {
-          "title": "Featured collection",
+          "title": "Sustainable & revived creations",
           "home_featured_products": "upcycled-shirts-thrift-secondhand-vintage-sustainable",
           "per_row": 4,
           "rows": 1,
