@@ -796,13 +796,16 @@
       },
       "scrolling_text_fb338C": {
         "type": "Scrolling-Text",
+        "custom_css": [
+          ".scrolling_text_fb338C-ss-scroller__container {font-weight: bold;}"
+        ],
         "name": "SS - Scrolling text",
         "settings": {
-          "text": "Free Delivery on Orders above 100",
+          "text": "Free Delivery on Orders above 100$",
           "icon_width": 0,
           "link": "",
           "direction": "left",
-          "inside_padding": 0,
+          "inside_padding": 18,
           "text_font": "open_sans_n4",
           "text_size": 24,
           "text_size_mobile": 40,
